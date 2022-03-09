@@ -1,7 +1,7 @@
 ### Hi there, I am Atul 👋
 
 ![Atul's GitHub stats](https://github-readme-stats.vercel.app/api?username=atulgupta7&count_private=true&show_icons=true&theme=jolly)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulgupta7)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atulgupta7) -->
 
 
 ![](https://komarev.com/ghpvc/?username=atulgupta7)
