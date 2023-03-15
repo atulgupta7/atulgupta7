@@ -38,9 +38,9 @@
 <br> 
     
 
-<img src="https://github.com/atulgupta7/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<!-- <img src="https://github.com/atulgupta7/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/atulgupta7/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-
+ -->
   <!--
 
 <br>
