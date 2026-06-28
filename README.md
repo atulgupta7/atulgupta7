@@ -1,17 +1,16 @@
-<!-- Banner divider -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- ===================== ANIMATED HEADER ===================== -->
+<a href="https://github.com/atulgupta7">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E9C47,100:0A3D2E&height=230&section=header&text=Atul%20Gupta&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Backend%20%7C%20Cloud%20Engineer&descSize=22&descAlignY=66" alt="header" />
+</a>
 
-<h1 align="center">
-  Hi there, I'm Atul 👋
-</h1>
-
+<!-- ===================== TYPING SUBTITLE ===================== -->
 <p align="center">
   <a href="https://github.com/atulgupta7">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+Cloud+Engineer;Python+%7C+JavaScript%2FTypeScript+%7C+Java%2FGo%2FC%2B%2B;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=520&height=45&color=0E9C47&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+Cloud+Engineer;Python+%7C+TypeScript+%7C+Java+%7C+Go+%7C+C%2B%2B;AWS+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Always+learning%2C+always+building&font=Fira%20Code&center=true&width=520&height=45&color=0E9C47&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Profile views + Followers + Stars -->
+<!-- ===================== COUNTERS ===================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atulgupta7&color=0E9C47&style=for-the-badge&label=Profile+Views" alt="Profile views" />
   <a href="https://github.com/atulgupta7?tab=followers">
@@ -22,59 +21,65 @@
   </a>
 </p>
 
----
-
-### 🧑‍💻 About Me
-
-- 🛠️ &nbsp;Backend & Cloud engineer — I build APIs, services, and the infrastructure they run on.
-- 🌱 &nbsp;Currently going deeper on distributed systems and cloud-native tooling.
-- 💬 &nbsp;Ask me about backend design, AWS, containers, and CI/CD.
-- ⚡ &nbsp;Open to collaborating on backend / DevOps / open-source projects.
-
----
-
-### 🧰 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+<!-- ===================== ABOUT ===================== -->
+<h3 align="center">🧑‍💻 About Me</h3>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulgupta7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&hide_title=false" alt="Atul's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulgupta7&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top languages" />
+  🛠️ &nbsp;Backend &amp; Cloud engineer — I build APIs, services, and the infrastructure they run on.<br/>
+  🌱 &nbsp;Currently going deeper on distributed systems and cloud-native tooling.<br/>
+  💬 &nbsp;Ask me about backend design, AWS, containers, and CI/CD.<br/>
+  ⚡ &nbsp;Open to collaborating on backend / DevOps / open-source projects.
+</p>
+
+<!-- ===================== TECH STACK ===================== -->
+<h3 align="center">🧰 Tech Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<!-- ===================== GITHUB STATS ===================== -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulgupta7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github&bg_color=00000000&title_color=39D353&icon_color=39D353&text_color=9F9F9F" alt="Atul's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulgupta7&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=39D353&text_color=9F9F9F" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=atulgupta7&hide_border=true&border_radius=12&background=0D1117&stroke=21262D&ring=39D353&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=atulgupta7&hide_border=true&border_radius=12&background=00000000&stroke=39D353&ring=39D353&fire=39D353&currStreakNum=9F9F9F&sideNums=9F9F9F&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
 </p>
 
 <!-- Animated contribution activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulgupta7&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&hide_border=true&radius=12&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=atulgupta7&bg_color=00000000&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&hide_border=true&radius=12&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
 
----
+<!-- Snake animation (generated by .github/workflows/snake.yml, pushed to the 'output' branch) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atulgupta7/atulgupta7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atulgupta7/atulgupta7/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/atulgupta7/atulgupta7/output/github-snake.svg" />
+  </picture>
+</p>
 
-### 🌐 Connect with Me
+<!-- ===================== CONNECT ===================== -->
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akgnitd">
@@ -88,16 +93,22 @@
   </a>
 </p>
 
-<!--
-NOTE on data freshness (for whoever edits this file):
-- Tech-stack badges above are STATIC shields.io badges rendered from text — they never go stale and never rate-limit.
-- Stats / streak / top-langs come from the OFFICIAL hosted instances:
-    github-readme-stats.vercel.app  and  streak-stats.demolab.com
-  These are shared public services: GitHub rate-limits them, so cards may show "max retries / try later"
-  during busy periods, and they CANNOT count private-repo contributions.
-- To get always-fresh data AND private contributions, self-host github-readme-stats on your own Vercel
-  account with your own GitHub PAT, then point the URLs at your-instance.vercel.app.
-  Guide: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-- Socials: LinkedIn/Twitter handle = akgnitd, email = akgnit7@gmail.com
--->
+<!-- ===================== ANIMATED FOOTER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3D2E,100:0E9C47&height=120&section=footer" alt="footer" />
 
+<!--
+NOTE on data & rendering (for whoever edits this file):
+- Header spacing: name vs. subtitle gap is controlled by fontAlignY (name) and descAlignY (subtitle) on capsule-render.
+- Stat cards use TRANSPARENT backgrounds (bg_color=00000000 / background=00000000) so they blend into the page
+  on both light and dark GitHub themes — text_color=9F9F9F is the safe mid-gray that stays readable on either.
+- Tech-stack badges = STATIC shields.io badges from text — never stale, never rate-limited.
+- Stats / top-langs = OFFICIAL github-readme-stats.vercel.app (no font option — font is hardcoded; Inter/Poppins
+  would require self-hosting GRS or lowlighter/metrics).
+- Streak = streak-stats.demolab.com ; Activity graph = github-readme-activity-graph.vercel.app ;
+  Banners = capsule-render.vercel.app. All are shared public services: GitHub rate-limits them, cards may briefly
+  show "max retries", and they CANNOT count private-repo contributions. Self-host GRS with a PAT for fresh+private.
+- Snake contribution animation = Platane/snk via .github/workflows/snake.yml (runs daily, pushes SVGs to the
+  'output' branch; README embeds raw.githubusercontent.com/.../output/github-snake*.svg). The 'output' branch and
+  the snake image only exist AFTER the first successful Actions run.
+- Socials: LinkedIn/Twitter handle = akgnitd, email = akgnit7@gmail.com.
+-->
