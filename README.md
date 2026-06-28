@@ -59,12 +59,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulgupta7&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=algolia" alt="Atul's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulgupta7&layout=compact&hide_border=true&theme=algolia" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulgupta7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&hide_title=false" alt="Atul's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulgupta7&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=atulgupta7&theme=algolia&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=atulgupta7&hide_border=true&border_radius=12&background=0D1117&stroke=21262D&ring=39D353&fire=39D353&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=39D353&sideLabels=8B949E&dates=8B949E" alt="GitHub streak" />
+</p>
+
+<!-- Animated contribution activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atulgupta7&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&area_color=39D353&hide_border=true&radius=12&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
 
 ---
