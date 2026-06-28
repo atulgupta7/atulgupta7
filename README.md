@@ -57,7 +57,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atulgupta7&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&rank_icon=github&bg_color=00000000&title_color=39D353&icon_color=39D353&text_color=9F9F9F" alt="Atul's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulgupta7&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=00000000&title_color=39D353&text_color=9F9F9F" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -102,8 +101,10 @@ NOTE on data & rendering (for whoever edits this file):
 - Stat cards use TRANSPARENT backgrounds (bg_color=00000000 / background=00000000) so they blend into the page
   on both light and dark GitHub themes — text_color=9F9F9F is the safe mid-gray that stays readable on either.
 - Tech-stack badges = STATIC shields.io badges from text — never stale, never rate-limited.
-- Stats / top-langs = OFFICIAL github-readme-stats.vercel.app (no font option — font is hardcoded; Inter/Poppins
-  would require self-hosting GRS or lowlighter/metrics).
+- Stats card = OFFICIAL github-readme-stats.vercel.app. "Total Commits 82" = all-time commits across all repos
+  (because include_all_commits=true); remove that flag to show current-year commits instead. No font option —
+  font is hardcoded; Inter/Poppins would require self-hosting GRS or lowlighter/metrics.
+- "Most Used Languages" (top-langs) card was intentionally removed (repos report language=null, so it rendered empty).
 - Streak = streak-stats.demolab.com ; Activity graph = github-readme-activity-graph.vercel.app ;
   Banners = capsule-render.vercel.app. All are shared public services: GitHub rate-limits them, cards may briefly
   show "max retries", and they CANNOT count private-repo contributions. Self-host GRS with a PAT for fresh+private.
